@@ -1,4 +1,4 @@
-Windows-Application-Icon-Changer
+# Windows-Application-Icon-Changer
 
 This application allows users to change the icon of any Windows executable file, making it easier to personalize and differentiate their software.
 
